@@ -26,3 +26,9 @@ cooperating classes instead of one script.
 - No automated tests yet
 
 ## How to run
+1. Make sure Python 3 is installed
+2. Clone this repo
+3. Run:
+```
+   python main.py
+```
