@@ -1,0 +1,34 @@
+1.Add 2.Process 3.Search Student(Memory) 4.Search Student (File) 5.All Records (from File) 6.Delete Student (From File) 7.Exit
+Choice: 1
+Enter Grade (9/10): 9
+Name: Neha
+Roll: 123
+Attendance: 23
+English: 22
+Mathematics: 34
+Science: 45
+Computer: 56
+History: 78
+
+1.Add 2.Process 3.Search Student(Memory) 4.Search Student (File) 5.All Records (from File) 6.Delete Student (From File) 7.Exit
+Choice: 2
+Enter Grade (9/10): 9
+Roll: 123
+========================================
+        Grade 9 Progress Report         
+========================================
+Neha | Roll No.: 123 | Attendance: 23.0
+English     : 22.0
+Mathematics : 34.0
+Science     : 45.0
+Computer    : 56.0
+History     : 78.0
+Total 235.0 | Avg 47.0 | High 78.0 | Low 22.0
+
+Grade D Result FAIL Remarks Needs Improvement
+========================================
+
+EMAIL
+From: Grade 9 Office <grade9@school.com>
+To: 11
+Grade: D
